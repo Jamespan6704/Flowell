@@ -1,0 +1,8 @@
+Create a new NestJS project using the CLI command nest new project-name.
+Set up the necessary dependencies for authentication and database integration. You can use libraries like PassportJS for authentication and TypeORM for database integration.
+Create the User entity and Post entity using TypeORM decorators.
+Create the UserController and PostController with the necessary methods to handle the API endpoints.
+Create the AuthService with the necessary methods to handle user registration and login.
+Implement the JWT authentication strategy using PassportJS middleware.
+Create guards to handle user authorization for deleting a post and retrieving the user's feed.
+Implement the necessary endpoints for user registration, login, post creation, post deletion, and retrieving the user's feed.
